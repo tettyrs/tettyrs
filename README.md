@@ -17,11 +17,6 @@ OCR and document processing solutions for automated data extraction and validati
   - Multi-format field correction
   - Indonesian locale support
 
-- **[documents](https://github.com/tettyrs-org/documents)** - Technical documentation
-  - Implementation guides
-  - Architecture decisions
-  - Integration specifications
-
 ## 📦 Key Projects
 
 ### Communication Services
@@ -34,10 +29,6 @@ OCR and document processing solutions for automated data extraction and validati
 - **[autoencoder-for-MNIST-image-reconstruction](https://github.com/tettyrs/autoencoder-for-MNIST-image-reconstruction)** - Deep learning
 - **[deep-learning-for-CIFAR-10-image-classification-using-CNN](https://github.com/tettyrs/deep-learning-for-CIFAR-10-image-classification-using-CNN)** - Image classification
 - **[handwritten-digit-recognition-using-a-simple-neural-network](https://github.com/tettyrs/handwritten-digit-recognition-using-a-simple-neural-network)** - Neural networks
-
-### Infrastructure
-- **[stock-flow](https://github.com/tettyrs/stock-flow)** - Inventory management system
-- **[Concert-Ticket-Booking-System](https://github.com/tettyrs/Concert-Ticket-Booking-System)** - Event ticketing platform
 
 ## 🚀 Getting Started
 
