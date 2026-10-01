@@ -17,6 +17,14 @@ OCR and document processing solutions for automated data extraction and validati
   - Multi-format field correction
   - Indonesian locale support
 
+- **[ocr-api](https://github.com/tettyrs-org/ocr-api)** - Document processing REST API
+  - Quarkus 3.9.4 with PostgreSQL 18
+  - Async OCR extraction + LLM classification
+  - JWT authentication (HMAC-SHA256)
+  - File upload to MinIO S3
+  - Comprehensive audit logging
+  - Complete with unit tests and migrations
+
 ## 📦 Key Projects
 
 ### Communication Services
